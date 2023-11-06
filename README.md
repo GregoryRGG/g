@@ -1,1 +1,10 @@
-# g
+<!DOCTYPE html>
+<html>
+<head>
+<h1> MI NOMBRE ES GREGORIO </h1>
+<h2> ESTA ES MI PRUEBA DE HTML BASICO </h2>
+</head>
+<body>
+    
+</body>
+</html>
